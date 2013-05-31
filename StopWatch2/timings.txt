@@ -1,0 +1,87 @@
+------------------------------------------------------------
+
+Date:3-4-2013, Time:14:41:45
+
+No laps recorded
+Summary of this run: 0.58 seconds
+------------------------------------------------------------
+
+Date:3-4-2013, Time:14:41:45
+
+No laps recorded
+Summary of this run: 0.39 seconds
+------------------------------------------------------------
+
+Date:3-4-2013, Time:14:41:45
+
+Lap 1: 0.70 seconds
+Lap 2: 0.16 seconds
+Lap 3: 0.19 seconds
+Lap 4: 0.16 seconds
+Lap 5: 0.12 seconds
+Lap 6: 0.53 seconds
+Lap 7: 0.03 seconds
+Lap 8: 0.03 seconds
+Lap 9: 0.02 seconds
+Lap 10: 0.05 seconds
+Lap 11: 0.03 seconds
+Lap 12: 0.05 seconds
+Lap 13: 0.03 seconds
+Lap 14: 0.03 seconds
+Lap 15: 0.84 seconds
+Lap 16: 0.55 seconds
+Lap 17: 0.03 seconds
+Lap 18: 0.03 seconds
+Lap 19: 0.03 seconds
+Lap 20: 0.03 seconds
+Lap 21: 0.03 seconds
+Lap 22: 0.03 seconds
+Lap 23: 0.06 seconds
+Lap 24: 0.00 seconds
+Lap 25: 0.05 seconds
+Lap 26: 0.03 seconds
+Lap 27: 0.28 seconds
+Lap 28: 0.50 seconds
+Lap 29: 0.06 seconds
+Lap 30: 0.00 seconds
+Lap 31: 0.05 seconds
+
+Summary of this run: 5.61 seconds
+------------------------------------------------------------
+
+Date:3-4-2013, Time:14:42:5
+
+Lap 1: 0.98 seconds
+Lap 2: 0.53 seconds
+Lap 3: 0.03 seconds
+Lap 4: 0.03 seconds
+Lap 5: 0.03 seconds
+Lap 6: 0.03 seconds
+Lap 7: 0.03 seconds
+Lap 8: 0.06 seconds
+Lap 9: 0.02 seconds
+Lap 10: 0.03 seconds
+Lap 11: 0.05 seconds
+Lap 12: 0.03 seconds
+Lap 13: 0.03 seconds
+Lap 14: 0.03 seconds
+Lap 15: 0.03 seconds
+Lap 16: 0.03 seconds
+Lap 17: 0.03 seconds
+Lap 18: 0.06 seconds
+Lap 19: 0.00 seconds
+
+Summary of this run: 2.94 seconds
+------------------------------------------------------------
+
+Date:3-4-2013, Time:14:42:5
+
+No laps recorded
+Summary of this run: 2.00 seconds
+------------------------------------------------------------
+
+Date:12-4-2013, Time:23:6:12
+
+Lap 1: 35.22 seconds
+
+Summary of this run: 67.69 seconds
